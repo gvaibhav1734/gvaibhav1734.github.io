@@ -1,6 +1,6 @@
 ---
 date: '2025-01-13T12:49:42+05:30'
-draft: true
+draft: false
 title: 'Declarative setups with NixOS'
 tags:
   - devoloper

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating-System on &lt; Vaibhav G /&gt;</title>
+    <link>http://localhost:1313/tags/operating-system/</link>
+    <description>Recent content in Operating-System on &lt; Vaibhav G /&gt;</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025, Vaibhav G.</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 12:49:42 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Declarative setups with NixOS</title>
+      <link>http://localhost:1313/blog/1-declarative-setups-with-nixos/</link>
+      <pubDate>Mon, 13 Jan 2025 12:49:42 +0530</pubDate>
+      <guid>http://localhost:1313/blog/1-declarative-setups-with-nixos/</guid>
+      <description>&lt;h1 id=&#34;but-why&#34;&gt;But&amp;hellip; Why?&lt;/h1&gt;&#xA;&lt;p&gt;Over the past 5 years I have had my fair share of changing laptops, setting up windows, sideloading Ubuntu, PopOS and more.&#xA;Naturally, the process is hard, effortful and forgetful! So I was looking for a more declarative way of setting up things&#xA;and that&amp;rsquo;s how I stumbled upon NixOS.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-did-i-go-about-it&#34;&gt;How did I go about it?&lt;/h1&gt;&#xA;&lt;p&gt;The first encounter with NixOS&amp;hellip; the configuration&amp;hellip; the Nix language&amp;hellip; the extensive documentation&amp;hellip; I noped the F out of it!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

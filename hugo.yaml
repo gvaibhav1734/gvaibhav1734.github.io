@@ -1,0 +1,34 @@
+baseURL: https://gvaibhav1734.github.io/
+languageCode: en-us
+title: < Vaibhav G />
+author: Vaibhav G
+copyright: Copyright © 2025, Vaibhav G.
+theme: archie
+enableRobotsTXT: true
+pygmentsstyl: "monokai"
+pygmentscodefence: true
+pygmentscodefencesguesssyntax: true
+paginate: 4
+params:
+  description: "gvaibhav1734 musings :heart:"
+  favicon: images/favicon.png
+  images:
+    - images/share.png
+  title: Vaibhav G
+languages:
+  en:
+    madeWith: "Made with hugo-bearcub"
+menus:
+  main:
+  - name: "home"
+    pageRef: "/"
+    weight: 1
+  - name: "blog"
+    pageRef: "/blog"
+    weight: 2
+  - name: "tags"
+    pageRef: "/tags"
+    weight: 3
+  - name: "about"
+    pageRef: "/about"
+    weight: 4

@@ -15,9 +15,19 @@ params:
   images:
     - images/share.png
   title: Vaibhav G
-languages:
-  en:
-    madeWith: "Made with hugo-bearcub"
+  social:
+  - name: "Twitter"
+    icon: "twitter"
+    url: "https://x.com/gvaibhav1734"
+  - name: "GitHub"
+    icon: "github"
+    url: "https://github.com/gvaibhav1734"
+  - name: "LinkedIn"
+    icon: "linkedin"
+    url: "https://www.linkedin.com/in/gvaibhav1734"
+  - name: "Gitlab"
+    icon: "gitlab"
+    url: "https://gitlab.com/gvaibhav1734"
 menus:
   main:
   - name: "home"
@@ -32,3 +42,4 @@ menus:
   - name: "about"
     pageRef: "/about"
     weight: 4
+

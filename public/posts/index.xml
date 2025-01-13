@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on &lt;/&gt; Vaibhav&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on &lt;/&gt; Vaibhav&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2025, Vaibhav G.</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 12:49:42 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NixOS</title>
+      <link>http://localhost:1313/posts/nixos/</link>
+      <pubDate>Mon, 13 Jan 2025 12:49:42 +0530</pubDate>
+      <guid>http://localhost:1313/posts/nixos/</guid>
+      <description>&lt;h1 id=&#34;why&#34;&gt;Why?&lt;/h1&gt;&#xA;&lt;p&gt;Over the past 5 years I have had my fair share of changing laptops, setting up a new windows system, sideloading Ubuntu and more.&lt;/p&gt;&#xA;&lt;p&gt;Naturally, the process is hard, effortful and forgetful!&lt;/p&gt;&#xA;&lt;p&gt;So I was looking for a more declarative way of setting up things and that&amp;rsquo;s how I stumbled upon NixOS.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how&#34;&gt;How?&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
